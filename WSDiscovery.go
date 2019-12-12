@@ -2,7 +2,7 @@ package WS_Discovery
 
 import (
 	"github.com/beevik/etree"
-	"github.com/yakovlevdmv/gosoap"
+	"github.com/newmind/gosoap"
 	"strings"
 )
 
