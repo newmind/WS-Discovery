@@ -15,7 +15,7 @@ import (
 	"golang.org/x/net/ipv4"
 	"time"
 	"log"
-	"github.com/satori/go.uuid"
+	"github.com/gofrs/uuid"
 )
 
 const bufSize  = 8192
